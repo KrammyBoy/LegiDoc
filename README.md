@@ -22,6 +22,7 @@ Legi Doc addresses the common challenge of deciphering medical prescriptions and
 ### Frontend
 - **Framework:** React Native
 - **Language:** TypeScript
+- **Development:** Expo
 - **Platform:** iOS & Android
 
 ### Backend
@@ -33,7 +34,7 @@ Legi Doc addresses the common challenge of deciphering medical prescriptions and
 - **Model:** Bidirectional LSTM (Bi-LSTM)
 - **Framework:** TensorFlow
 - **Development:** Jupyter Notebook
-- **Training Data:** Medical handwriting samples
+- **Training Data:** Handweave Image and Pharmacy Receipts Dataset
 
 ## 🧠 Model Details
 
